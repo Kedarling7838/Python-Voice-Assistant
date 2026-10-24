@@ -1,0 +1,19 @@
+
+{
+    "open youtube": {
+        "type": "open_url",
+        "value": "https://www.youtube.com"
+    },
+    "open github": {
+        "type": "open_url",
+        "value": "https://github.com"
+    },
+    "study motivation": {
+        "type": "say",
+        "value": "Stay focused, practice every day, and keep learning."
+    },
+    "python tutorials": {
+        "type": "search",
+        "value": "Python tutorials for beginners"
+    }
+}
